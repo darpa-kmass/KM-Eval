@@ -1,0 +1,22 @@
+{
+    "subject_id" : "A3",
+    "condition" : "prototype",
+    "task_id" : "Task1",
+    "task_start_time" : "2024-01-05T21:38:58.118885+00:00",
+    "task_total_time" : 432.35,
+    "km_pull_total_time" : 23.21,
+    "km_push_total_time" : 63.82,
+    "task_grade" : 85,
+    "corpus_knowledge_nugget_count" : 1,
+    "expert_captured_knowledge_nugget_count" : 2,
+    "nugget_content" : [
+        {"content" : "Here is a useful nugget of information.", "timestamp" : "2024-01-05T21:39:28.215325+00:00", "type": "expert_captured_knowledge"},
+        {"content" : "Here is another useful nugget.", "timestamp" : "2024-01-05T21:40:04.538227+00:00", "type": "expert_captured_knowledge"},
+        {"content" : "Here is a 3rd useful nugget.", "timestamp" : "2024-01-05T21:40:38.748282+00:00", "type": "corpus_knowledge"}
+    ],
+    "task_timeout" : false,
+    "optional_content" : {
+            "sub_task_grades" : [76, 83, 94],
+            "test_proctor" : "John Doe"
+        }
+}

@@ -1,0 +1,10 @@
+{"subject_id" : "subjectB", "condition": "prototype", "task_id" : "task1", "utc_timestamp" : "2024-01-05T23:38:10.118485+00:00", "state_id" : "task_initialized"}
+{"subject_id" : "subjectB", "condition": "prototype", "task_id" : "task1", "utc_timestamp" : "2024-01-05T23:39:05.118485+00:00", "state_id" : "task_execution"}
+{"subject_id" : "subjectB", "condition": "prototype", "task_id" : "task1", "utc_timestamp" : "2024-01-05T23:40:30.117885+00:00", "state_id" : "km_push_activity"}
+{"subject_id" : "subjectB", "condition": "prototype", "task_id" : "task1", "utc_timestamp" : "2024-01-05T23:41:45.114835+00:00", "state_id" : "task_execution"}
+{"subject_id" : "subjectB", "condition": "prototype", "task_id" : "task1", "utc_timestamp" : "2024-01-05T23:42:55.138525+00:00", "state_id" : "km_pull_activity"}
+{"subject_id" : "subjectB", "condition": "prototype", "task_id" : "task1", "utc_timestamp" : "2024-01-05T23:43:20.318885+00:00", "state_id" : "task_execution"}
+{"subject_id" : "subjectB", "condition": "prototype", "task_id" : "task1", "utc_timestamp" : "2024-01-05T23:43:40.158385+00:00", "state_id" : "km_push_activity"}
+{"subject_id" : "subjectB", "condition": "prototype", "task_id" : "task1", "utc_timestamp" : "2024-01-05T23:44:00.113585+00:00", "state_id" : "km_pull_activity"}
+{"subject_id" : "subjectB", "condition": "prototype", "task_id" : "task1", "utc_timestamp" : "2024-01-05T23:44:15.118285+00:00", "state_id" : "task_execution"}
+{"subject_id" : "subjectB", "condition": "prototype", "task_id" : "task1", "utc_timestamp" : "2024-01-05T23:45:51.165885+00:00", "state_id" : "task_conclusion"}
