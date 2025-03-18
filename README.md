@@ -1,4 +1,4 @@
-# Purpose
+# KM-Eval
 
 The following repository contains Python code that can be used to evaluate comparisons between a Prototype and a Baseline knowledge management system.  Input data to be used with this repository must conform to specific requirements, and must include both timing and grading information for a set of participants who have completed tasks while using both the Baseline and Prototype system.  Core metrics that will be calculated include the following:  _Reduce Task Failure Rate_, _Reduce Time on Task_, and _Percent Increase in Task Productivity_.
 
