@@ -71,6 +71,8 @@ See [LICENSE](LICENSE.md) for license information.
 
 This software was created by the Johns Hopkins University Applied Physics Laboratory and funded by the DARPA Knowledge Management at Scale and Speed (KMASS) Program.
 
+Approved for public release:  distribution is unlimited. 
+
 The views, opinions, and/or findings expressed are those of the author(s) and should not be interpreted as representing the official views or policies of the Department of Defense or the U.S. Government.
 
 © 2024 The Johns Hopkins University Applied Physics Laboratory LLC
